@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" method="upgrade">
+    <name>plg_system_hitzero</name>
+    <author>UWiX (original); community modernization</author>
+    <creationDate>November 2026</creationDate>
+    <copyright>Original HitZero copyright (C) UWiX; modernization copyright (C) 2026 contributors</copyright>
+    <license>GNU General Public License version 2 or later</license>
+    <version>2.0.0</version>
+    <description>PLG_SYSTEM_HITZERO_XML_DESCRIPTION</description>
+    <namespace path="src">HitzeroRoot\Plugin\System\Hitzero</namespace>
+    <files>
+        <folder plugin="hitzero">services</folder>
+        <folder>src</folder>
+        <filename>LICENSE.txt</filename>
+    </files>
+    <languages folder="language">
+        <language tag="en-GB">en-GB/plg_system_hitzero.ini</language>
+        <language tag="en-GB">en-GB/plg_system_hitzero.sys.ini</language>
+        <language tag="de-DE">de-DE/plg_system_hitzero.ini</language>
+        <language tag="de-DE">de-DE/plg_system_hitzero.sys.ini</language>
+    </languages>
+    <media destination="plg_system_hitzero" folder="media">
+        <folder>js</folder>
+        <filename>hitzero.png</filename>
+    </media>
+</extension>
