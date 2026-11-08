@@ -62,4 +62,4 @@ UI hooks depend on markup of the Joomla core article list/edit page and may requ
 - **UWiX**: original HitZero 1.3.1 extension and image artwork.
 - Community modernization: Joomla 5/6 code, CSRF + ACL and updated user interface.
 
-For redistribution, retain original attribution and GPL-2.0-or-later licensing. See `LICENSE.txt` and `CHANGELOG.md`.
+For redistribution, retain original attribution and GPL-2.0-or-later licensing. See `LICENSE` and `CHANGELOG.md`.
