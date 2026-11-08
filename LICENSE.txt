@@ -1,7 +1,0 @@
-HitZero is licensed under the GNU General Public License version 2 or later (GPL-2.0-or-later).
-
-Original HitZero 1.3.1: copyright UWiX (https://www.uwix.nl).
-Modernization changes: copyright (C) 2026 contributors.
-
-The complete license text is available at https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
-The software is distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
